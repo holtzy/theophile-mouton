@@ -308,7 +308,7 @@ permalink: /portfolio/
         <div class="project-description">
              <p></p>
             <p>
-                    <a href="https://github.com/TheophileMt92/GFW-Global-fishing-hours" target="_blank">GitHub Repository</a> 
+                    <a href="https://github.com/TheophileMt92/GFW-Global-fishing-hours" target="_blank">GitHub Repository</a>
                 </p>
         </div>
         </div>
@@ -387,7 +387,7 @@ permalink: /portfolio/
                 <img src="/assets/img/portfolio/Pimiento et al. 2024_2maps.png" alt="Project 3">
             </div>
             <div class="project-description">
-                <p>The spatial analyses showed that elasmobranch functional richness is concentrated along continental shelves and around oceanic islands, with 18 distinguishable hotspots. These hotspots only marginally overlap with those of other biodiversity facets, reflecting a distinct spatial fingerprint of functional diversity. </p> 
+                <p>The spatial analyses showed that elasmobranch functional richness is concentrated along continental shelves and around oceanic islands, with 18 distinguishable hotspots. These hotspots only marginally overlap with those of other biodiversity facets, reflecting a distinct spatial fingerprint of functional diversity. </p>
                 <p> Elasmobranch biodiversity facets converge with fishing pressure along the coast of China, which emerged as a critical frontier in conservation. Meanwhile, several components of elasmobranch functional diversity fall in high seas and/or outside the global network of marine protected areas.</p>
                 <p>These results highlight acute vulnerability of the world's elasmobranchs' functional diversity and reveal global priorities for elasmobranch functional biodiversity previously overlooked.</p>
                 <p>
@@ -402,7 +402,7 @@ permalink: /portfolio/
             <div class="project-description">
                 <p>A group of researchers led by <a href="https://www.ncl.ac.uk/nuact/fellows/profile/fabricestephenson.html" target="_blank">Dr. Fabrice Stephenson</a> and myself, and involving internationally renowned cetacean ecologists, such as <a href="https://mmi.oregonstate.edu/people/leigh-g-torres">Leigh G. Torres</a> and <a href="https://usys.ethz.ch/en/people/profile.MjIyODg5.TGlzdC82MzcsMzIwMTk3MjIy.html">Camille Albouy</a> investigated the spatial distribution of cetacean biodiversity in New Zealand waters. This project led to three research papers published in Rank A journals.</p>
                 <p><a href="https://onlinelibrary.wiley.com/doi/full/10.1111/ddi.13035" target="_blank">The first publication</a> involved modelling the spatial distribution of cetaceans in New Zealand. For this, we curated a national database of cetacean sightings at sea (>7000 sightings) and used Boosted Regression Tree and Relative Environmental Suitability modelling to predict the distribution of 30 species and species richness within New Zealand's EEZ. <a href="https://docs.niwa.co.nz/library/public/NZAEBR-240.pdf" target="_blank">A report</a> was also published and prepared for Fisheries New Zealand (Ministry for Primary Industries). </p>
-            </div>  
+            </div>
             <div class="project-image">
                 <img src="/assets/img/portfolio/Stephenson et al. 2020.png" alt="Project 4">
             </div>
@@ -421,7 +421,7 @@ permalink: /portfolio/
             <p>
                     <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/ddi.13035" target="_blank">Stephenson et al. 2020 (Diversity and Distributions)</a> |
                     <a href="https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecs2.3633" target="_blank">Stephenson et al. 2021 (Ecosphere)</a> |
-                    <a href="https://www.sciencedirect.com/science/article/abs/pii/S0006320722000374" target="_blank">Mouton et al. 2022 (Biological Conservation)</a> 
+                    <a href="https://www.sciencedirect.com/science/article/abs/pii/S0006320722000374" target="_blank">Mouton et al. 2022 (Biological Conservation)</a>
                 </p>
         </div>
     </template>
@@ -438,7 +438,7 @@ permalink: /portfolio/
         </div>
         <div class="project-image">
             <img src="/assets/img/portfolio/Mouton et al. 2020 GCB Fig 1.png" alt="Project 5">
-        </div> 
+        </div>
         <div class="project-description">
             <p>In <a href="https://nsojournals.onlinelibrary.wiley.com/doi/10.1111/ecog.06148" target="_blank">the second publication</a> I examined changes in population size and range shifts of species pools, and related these to taxonomy and functional traits. We found that increases in population and species range size were more prevalent than decreases in population and range size. Species shifted their ranges towards higher latitudes on average by 50 km per decade. Despite little to no relationship with taxonomy, we uncovered distinct relationships between functional traits and population trends and latitudinal species range shifts.</p>
         </div>
@@ -451,7 +451,7 @@ permalink: /portfolio/
         <p>
                     <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/gcb.15389" target="_blank">Mouton et al. 2020 (Global Change Biology)</a> |
                     <a href="https://nsojournals.onlinelibrary.wiley.com/doi/10.1111/ecog.06148" target="_blank">Mouton et al. 2022 (Ecography)</a> |
-                    <a href="https://issuu.com/naturevolve/docs/issue_12_naturevolve" target="_blank">NatureVolve (Issue 12)</a> 
+                    <a href="https://issuu.com/naturevolve/docs/issue_12_naturevolve" target="_blank">NatureVolve (Issue 12)</a>
                 </p>
     </div>
 </template>
@@ -473,12 +473,11 @@ permalink: /portfolio/
                 <p>These results suggest that the conservation and restoration of riparian vegetation that provides substantial shading and hydromorphologically diverse in-stream habitat, would have beneficial direct and indirect effects on ecosystem functioning, and contribute to the mitigation of land-use impacts.</p>
             </div>
             <p>
-                    <a href="https://www.sciencedirect.com/science/article/abs/pii/S0048969718351507" target="_blank">Mouton et al. 2019 (Science of the Total Environment)</a> 
+                    <a href="https://www.sciencedirect.com/science/article/abs/pii/S0048969718351507" target="_blank">Mouton et al. 2019 (Science of the Total Environment)</a>
                 </p>
         </div>
     </template>
     <script>
-        document.addEventListener('DOMContentLoaded', function() {
     const tabContainer = document.querySelector('.tab-container');
     const modalOverlay = document.getElementById('modal-overlay');
     const modalTitle = document.querySelector('.modal-title');
@@ -541,7 +540,6 @@ permalink: /portfolio/
             modalOverlay.style.display = 'none';
         }
     });
-});
     </script>
 </body>
 </html>
